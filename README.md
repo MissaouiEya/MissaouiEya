@@ -15,9 +15,20 @@ I'm a recent graduate in Information and Communication Technology from the High 
 ### PFE (Final Year Project)
 - **Secure Communication System for Nano-Satellites**: Designed and implemented a secure communication system using LoRa technology and encryption algorithms. This project focused on ensuring data integrity and confidentiality for satellite communications.
 
+## 💼 Internships
+- **Tunisie Telecom**: Gained experience in telecommunications and network management.
+- **Tech Inventor Center**: Collaborated on innovative technology projects and prototypes.
+- **Labo of FSM**: Worked on various electronic engineering projects.
+- **Electronic Engineering Center**: Engaged in hands-on experiences in electronic design and applications.
+  
 ## 🌱 Currently Learning
 - Embedded Systems
 - Internet of Things (IoT) Engineering
+
+  ## 🎉 Interests
+- Watching anime
+- Participating in robotics competitions
+- Kickboxing and sports
 
 ## 💬 Let's Connect!
 Feel free to reach out to me for collaboration or discussions about IoT, embedded systems, or any tech-related topics!
