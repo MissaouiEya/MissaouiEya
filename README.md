@@ -7,7 +7,11 @@ I'm a recent graduate in Information and Communication Technology from the High 
 ### IoT Projects
 - **Smart House**: Developed a home automation system to control lighting and appliances remotely.
 - **Voice Control with Mobile App**: Created an app that allows users to control devices using voice commands.
+- **Temperature and Humidity Control System**: Designed an application that monitors and controls temperature and humidity levels using Firebase for real-time data management.
 
+### PFA 
+**Facial Recognition and Hand Sign Control System**: Developed a system that uses facial recognition and hand signs to turn an LED on and off. This innovative project integrates computer vision with IoT to create a user-friendly interface for device control.
+  
 ### PFE (Final Year Project)
 - **Secure Communication System for Nano-Satellites**: Designed and implemented a secure communication system using LoRa technology and encryption algorithms. This project focused on ensuring data integrity and confidentiality for satellite communications.
 
